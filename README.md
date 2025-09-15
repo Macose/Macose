@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jose
+# 👋 ¡Hola! Soy José
 
 Soy **Data Scientist** con experiencia en **programación orientada a la inteligencia artificial**. Me especializo en transformar datos complejos en soluciones inteligentes, combinando estadística, machine learning y desarrollo de software para crear modelos que aprenden, predicen y evolucionan.
 
