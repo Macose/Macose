@@ -58,7 +58,7 @@ Mi enfoque une el rigor analítico con la capacidad de implementación en entorn
 
 ## 📂 Proyectos destacados
 
-### 💸 Microcrédito AMJ — Predicción de otorgamiento de microcréditos  
+### 💸 Microcrédito — Predicción de otorgamiento de microcréditos  
 📍 Repositorio: [Macose/microcredito_amj](https://github.com/Macose/microcredito_amj)
 
 Este proyecto aplica técnicas de **machine learning** para predecir la probabilidad de otorgamiento de microcréditos en una cooperativa financiera. A partir de variables como edad, género, nivel educativo y destino del crédito, se construyen modelos supervisados que permiten anticipar decisiones crediticias y mejorar la inclusión financiera.
