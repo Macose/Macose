@@ -58,29 +58,38 @@ Mi enfoque une el rigor analítico con la capacidad de implementación en entorn
 
 ## 📂 Proyectos destacados
 
-### 📈 Predicción de fallos en sistemas industriales  
-Modelo supervisado para anticipar fallos en maquinaria usando sensores IoT y series temporales. Incluye pipeline completo desde la ingesta hasta el despliegue en API.
+### 💸 Microcrédito AMJ — Predicción de otorgamiento de microcréditos  
+📍 Repositorio: [Macose/microcredito_amj](https://github.com/Macose/microcredito_amj)
 
-### 🧬 Clasificación de señales biomédicas  
-Red neuronal convolucional para analizar señales EMG y EEG, con aplicación en salud y rendimiento deportivo.
+Este proyecto aplica técnicas de **machine learning** para predecir la probabilidad de otorgamiento de microcréditos en una cooperativa financiera. A partir de variables como edad, género, nivel educativo y destino del crédito, se construyen modelos supervisados que permiten anticipar decisiones crediticias y mejorar la inclusión financiera.
 
-### 🧠 Sistema de recomendación inteligente  
-Algoritmo híbrido basado en filtrado colaborativo y contenido, aplicado en entornos de e-learning.
+**🔧 Tecnologías utilizadas**:  
+`Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `EDA`
+
+**✨ Lo que destaca**:  
+- Modelos predictivos aplicados a datos reales del sector financiero  
+- Análisis exploratorio previo para selección de variables relevantes  
+- Visualizaciones orientadas a la interpretación de resultados  
+- Potencial uso en sistemas de scoring crediticio inclusivo
 
 ---
 
 ## 📫 Cómo contactarme
 
-- [LinkedIn](www.linkedin.com/in/josé-luis-macías-sánchez-b62224205)
+- [LinkedIn](http://www.linkedin.com/in/josé-luis-macías-sánchez-b62224205)
 
 ---
 
 ## ⚡ Curiosidad
 
-Me fascina explorar cómo los modelos de IA pueden adaptarse a contextos dinámicos y aprender de la incertidumbre. En mi tiempo libre, experimento con modelos generativos y visualizaciones interactivas.
+Me apasiona explorar cómo los modelos de IA pueden adaptarse a contextos dinámicos y aprender de la incertidumbre. En mi tiempo libre, experimento con algoritmos evolutivos, simulaciones físicas y visualizaciones interactivas.
 
 ---
 
-## ⚡ Curiosidad
+## 📈 Estadísticas de GitHub
 
-Cuando no estoy programando robots, me gusta explorar algoritmos evolutivos y jugar con simulaciones físicas en entornos virtuales.
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macose&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Macose&layout=compact&theme=radical)
+
+---
